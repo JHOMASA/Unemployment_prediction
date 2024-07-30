@@ -19,18 +19,31 @@ Its neccesary install this libraries to follow the present project.
 
 # DATA TRANSFORM
 Date                                                          0
+
 Calgary CER Unemployment rate (%)                             0
+
 Alberta Unemployment Rate (%)                                 0
+
 Canada Unemployment rate (%)                                  0
+
 Calgary (CMA) Average Hourly Wage Rate ($)                    0
+
 City of Calgary Building Permits Residential Value ($)        0
+
 City of Calgary Building Permits Non-Residential Value ($)    0
+
 Calgary (City) Total Housing Starts (units)                   0
+
 Calgary (CMA) Total Housing Starts (units)                    0
+
 Calgary (CER) Retail Sales ($billions)                        2
+
 Calgary (CMA) Inflation Rate (%change)                        0
+
 dtype: int64
+
 -Applying **Unemployment.fillna(0)** the Nan values will be filled by 0 
+
 # DATA COLUMNS CONSIDERED
 
 **Calgary CER Unemployment rate (%)**, **Alberta Unemployment Rate (%)**, **Canada Unemployment rate (%)**
