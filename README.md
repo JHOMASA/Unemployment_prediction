@@ -32,7 +32,9 @@ Calgary (CMA) Inflation Rate (%change)                        0
 dtype: int64
 -Applying **Unemployment.fillna(0)** the Nan values will be filled by 0 
 # DATA COLUMNS CONSIDERED
-'Calgary CER Unemployment rate (%)', 'Alberta Unemployment Rate (%)', 'Canada Unemployment rate (%)'
+
+**Calgary CER Unemployment rate (%)**, **Alberta Unemployment Rate (%)**, **Canada Unemployment rate (%)**
+
 # STADISTIC ANALYSIS
 In this context the idea is apply Z-score table to know measures the number of standard deviations from the mean. A z-score close to 0 indicates the value near the mean, possitive z-score indicates above the mean, and negative z-score below the mean. Calgary Unemployment rate shows peaks around 2020-06 to 2021-08 with z-scores exceeding 1.5, indicating significatly higher employment compared to the mean. Values dip down below mean mostly between 2022-09 to 2023-12. Alberta Unemployment rate indicates higher unemployment rates with peaks similarly around 2020-05 to 2021-08 with z-scores around 1.5. Values from 2022-08 to 2023-12 indicates lower unemployment rates compared to the mean. Peaks around 2020-04 to 2020-12 with scores around 1.8 , indicating higher unemployment rates.
 
