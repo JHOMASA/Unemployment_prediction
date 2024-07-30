@@ -7,11 +7,13 @@ This project was developed with the finality to explain a model that could illus
 - PANDAS AS PD
 - NUMPY AS NP
 - MATPLOTLIB
+  
 | LIBRARIES  | ABBREVIATION |
 |------------|--------------|
 | PANDAS     | pd           |
 | NUMPY      | np           |
 | MATPLOTLIB | plt          |
+
 
 Its neccesary install this libraries to follow the present project.
 
@@ -49,9 +51,7 @@ In this context the idea is apply Z-score table to know measures the number of s
   All three regions show a similar trend with unemployment rates peaking around 2020 due to the COVID-19 pandemic and gradually decreasing afterward
   Calgary and Alberta shows a higher unemployment rate comparing with Canada as a nation due to regions could specify dependencies in terms of macroeconomics such    as health factors (COVID-19). Furthermore, it is relevant the comprenhension into the "ceteris paribus" due to whatever factor that  increase or decrease in   
   health, politics or social could rebound in the economic situation.
-
-# SUGGESTION 
-  During the present 
+ 
   
 
 
