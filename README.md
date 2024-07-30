@@ -7,11 +7,11 @@ This project was developed with the finality to explain a model that could illus
 - PANDAS AS PD
 - NUMPY AS NP
 - MATPLOTLIB
-| LIBRARIES     | ABREVIATION   |
-| ------------- | ------------- |
-| PANDAS        |   pd          |
-| NUMPY         |   np          |
-| MATPLOTLIB    |   plt         |
+| LIBRARIES  | ABBREVIATION |
+|------------|--------------|
+| PANDAS     | pd           |
+| NUMPY      | np           |
+| MATPLOTLIB | plt          |
 
 Its neccesary install this libraries to follow the present project.
 
